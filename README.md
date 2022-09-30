@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Dominykas</h1>
+<h1 align="left">Hi, I'm Dominykas!</h1>
 <h3 align="left">I am a young, vibrant individual, dripping with passion and coated in unbeatable tech skills.</h3>
 
 - 🌱 I’m currently learning **JavaScript Frameworks**
