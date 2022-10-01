@@ -5,9 +5,9 @@
 
 - 🤝 I’m looking for help with **AI, Machine Learning**
 
-- 💰 Searching for my first job as a **Junior Web Developer**
+- 💰 I'm searching for my first job as a **Junior Web Developer**
 
-- 📫 How to reach me **dominykaspd@gmail.com**
+- 📫 Say hello **dominykaspd@gmail.com**
 
 <p align="left">
 </p>
