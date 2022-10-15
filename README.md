@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Dominykas!</h1>
-<h3 align="left">Leetcode blackbelt rockstart 20x dev here ready to take your team synergy up to 11 by coordinating cross functional okrs with strong project management.</h3>
+
 
 - 🌱 I’m currently learning **JavaScript Frameworks**
 
