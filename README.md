@@ -1,8 +1,6 @@
 <h1 align="left">Hi, I'm Dominykas!</h1>
 
 
-- 🌱 I’m currently learning **JavaScript Frameworks**
-
 - 🤝 I’m looking for help with **AI, Machine Learning**
 
 - 📫 Say hello **dominykaspd@gmail.com**
