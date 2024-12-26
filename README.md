@@ -3,7 +3,7 @@
 
 - 🤝 I’m looking for help with **AI, Machine Learning**
 
-- 📫 Say hello **dominykaspd@gmail.com**
+- 📫 Say hello **dbudrika@asu.edu**
 
 <p align="left">
 </p>
